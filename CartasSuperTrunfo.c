@@ -2,6 +2,8 @@
 
     int main() {
 
+        //Área para definição das variáveis para armazenar as propriedades das cidades
+
         char Estado1[10]= "Paraná", Estado2[10]= "Bahia", Estado3[10]= "Tocantins", Estado4[10]= "Pernambuco";
         char Code1[10]= "A01", Code2[10]= "A02", Code3[10]= "A03", Code4[10]= "A04";
         char Cidade1[10]= "Curitiba", Cidade2[10]="Salvador", Cidade3[10]= "Palmas", Cidade4[10]= "Recife";
@@ -9,6 +11,8 @@
         float Área1 = 432, Área2 = 693.44, Área3 = 2219, Área4 = 218.84;
         float Pib1 = 98, PIB2 = 62.95, PIB3 = 14.168, PIB4 = 54.691;
         int Pontost1 = 23, Pontost2 = 29, Pontost3 = 35, Pontost4 = 17;
+
+        //Área para exibição dos dados das cidades
 
         printf("Carta 1\n");
 

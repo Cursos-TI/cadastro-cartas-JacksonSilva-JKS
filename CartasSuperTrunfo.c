@@ -42,7 +42,7 @@
         printf("Nome da cidade: %s\n", Cidade2);
         printf("População: %i\n", População2);
         printf("Área: %.0fKm²\n", Área2);
-        printf("PIB: %.0f Bilhões de Reais\n", PIB2);
+        printf("PIB: %.2f Bilhões de Reais\n", PIB2);
         printf("Pontos Turisticos: %d\n", Pontost2);
         printf("Desindade Populacional: %.2f Hab/Km²\n", densip2);
         printf("PIB per Capita: %.2f Reais\n", Pibper2);
